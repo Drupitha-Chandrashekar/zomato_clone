@@ -1,2 +1,2 @@
 # zomato_clone
-zomato clone using basic html and css
+zomato clone using basic html,css and js
